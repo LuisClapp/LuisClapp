@@ -28,5 +28,5 @@
 </div>
 </div>
 </div>
-<br />
+<br/>
 🇧🇷 Living in Rio de Janeiro, Brazil 
