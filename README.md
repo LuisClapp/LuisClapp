@@ -30,5 +30,3 @@
 </div>
 <br />
 🇧🇷 Living in Rio de Janeiro, Brazil 
-    
-![Snake animation](https://github.com/LuisClapp/LuisClapp/blob/output/github-contribution-grid-snake.svg)
